@@ -363,6 +363,7 @@ Thanks to everyone who has contributed code, reviews, bug reports and design fee
 | <img src="https://github.com/lwsinclair.png" width="40" height="40" style="border-radius: 50%"/> | [@lwsinclair](https://github.com/lwsinclair) | 💻 Code, 🔀 PRs |
 | <img src="https://github.com/mouse-value-add.png" width="40" height="40" style="border-radius: 50%"/> | [@mouse-value-add](https://github.com/mouse-value-add) | 💻 Code, 🔀 PRs |
 | <img src="https://github.com/SiM22.png" width="40" height="40" style="border-radius: 50%"/> | [@SiM22](https://github.com/SiM22) | 💻 Code, 🔀 PRs |
+| <img src="https://github.com/markeclaudio.png" width="40" height="40" style="border-radius: 50%"/> | [@markeclaudio](https://github.com/markeclaudio) | 💻 Code |
 | <img src="https://github.com/DrRSatzteil.png" width="40" height="40" style="border-radius: 50%"/> | [@DrRSatzteil](https://github.com/DrRSatzteil) | 🔀 PRs |
 | <img src="https://github.com/MilkyWay88.png" width="40" height="40" style="border-radius: 50%"/> | [@MilkyWay88](https://github.com/MilkyWay88) | 🔀 PRs |
 | <img src="https://github.com/taylorwalton.png" width="40" height="40" style="border-radius: 50%"/> | [@taylorwalton](https://github.com/taylorwalton) | 🔀 PRs |
